@@ -9,6 +9,9 @@ One of the most important things in an taxi business is giving our clients an ea
 
 **We will be using Stripe as our payment processing partner since they offer amazing support while trying their best to keep away the fraudulent charges.**
 
+1. Table of Content
+{:toc}
+
 ## Create new Stripe account
 
 Visit Stripe and create your account on their [Sign up](https://dashboard.stripe.com/register) page.

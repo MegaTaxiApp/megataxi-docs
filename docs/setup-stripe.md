@@ -12,7 +12,7 @@ One of the most important things in an taxi business is giving our clients an ea
 We will be using Stripe as our payment processing partner since they offer amazing support while trying their best to keep away the fraudulent charges.
 
 ## Table of Content
-{: .no_toc .text-delta }
+{: .no_toc }
 
 - TOC
 {:toc}

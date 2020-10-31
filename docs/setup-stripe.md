@@ -7,11 +7,12 @@ nav_order: 1
 {: .no_toc }
 
 One of the most important things in an taxi business is giving our clients an easy way to finalize their purchase while maintaining a secured transaction.
+{: .text-delta }
 
-**We will be using Stripe as our payment processing partner since they offer amazing support while trying their best to keep away the fraudulent charges.**
+We will be using Stripe as our payment processing partner since they offer amazing support while trying their best to keep away the fraudulent charges.
 
 ## Table of Content
-{: .no_toc }
+{: .no_toc .text-delta }
 
 - TOC
 {:toc}

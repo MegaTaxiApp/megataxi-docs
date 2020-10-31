@@ -1,3 +1,7 @@
 remote_theme: pmarsceill/just-the-docs
 title: "Mega Taxi Docs"
-search_enabled: false
+search_enabled: true
+aux_links:
+  "Issues and Feedback":
+    - "//github.com/MegaTaxiApp/megataxi-docs/issues"
+heading_anchors: true

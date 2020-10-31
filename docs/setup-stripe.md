@@ -4,12 +4,16 @@ nav_order: 1
 ---
 
 # How to Setup Stripe for Mega Taxi App
+{: .no_toc }
 
 One of the most important things in an taxi business is giving our clients an easy way to finalize their purchase while maintaining a secured transaction.
 
 **We will be using Stripe as our payment processing partner since they offer amazing support while trying their best to keep away the fraudulent charges.**
 
-1. Table of Content
+## Table of Content
+{: .no_toc .text-delta }
+
+- TOC
 {:toc}
 
 ## Create new Stripe account

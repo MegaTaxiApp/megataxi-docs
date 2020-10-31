@@ -1,3 +1,4 @@
-title: "Mega Taxi Docs"
 remote_theme: pmarsceill/just-the-docs
+title: "Mega Taxi Docs"
+logo: "/assets/images/logo.png"
 search_enabled: false

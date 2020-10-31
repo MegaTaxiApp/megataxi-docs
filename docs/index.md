@@ -1,4 +1,4 @@
-# MegaTaxi Stripe Set-up Instructions
+# Set up Stripe
 
 One of the most important things in an taxi business is giving our clients an easy way to finalize their purchase while maintaining a secured transaction.
 

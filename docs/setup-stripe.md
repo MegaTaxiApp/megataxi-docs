@@ -1,4 +1,9 @@
-# Setup Stripe
+---
+title: Setup Stripe
+nav_order: 1
+---
+
+# How to Setup Stripe for Mega Taxi App
 
 One of the most important things in an taxi business is giving our clients an easy way to finalize their purchase while maintaining a secured transaction.
 

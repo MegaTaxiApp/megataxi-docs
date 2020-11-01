@@ -6,3 +6,4 @@ aux_links:
     - "//github.com/MegaTaxiApp/megataxi-docs/issues"
 aux_links_new_tab: true
 heading_anchors: true
+permalink: pretty
